@@ -1,2 +1,3 @@
 # hello-world
 Testing, testing, 1, 2, 3...
+I am a student at UNMC doing Software Engineering. This is my first time using Github, in accordance to my software engineering group project for my second year.
